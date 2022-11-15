@@ -902,10 +902,10 @@ do
     esp.element("Slider", "Max Distance", {default = {min = 250, max = 5000, default = 5000}})
  
     local Playere = players.new_sector("Player")
-    Playere.element("Toggle", "Box"):add_color({Color = Color3.fromRGB(255, 0, 0)})
-    Playere.element("Toggle", "Name"):add_color({Color = Color3.fromRGB(255, 0, 0)})
-    Playere.element("Toggle", "Health"):add_color({Color = Color3.fromRGB(255, 0, 0)})
-    Playere.element("Toggle", "Indicators"):add_color({Color = Color3.fromRGB(255, 0, 0)})
+    Playere.element("Toggle", "Box"):add_color({Color = Color3.fromRGB(255, 255, 255)})
+    Playere.element("Toggle", "Name"):add_color({Color = Color3.fromRGB(255, 255, 255)})
+    Playere.element("Toggle", "Health"):add_color({Color = Color3.fromRGB(0, 255, 0)})
+    Playere.element("Toggle", "Indicators"):add_color({Color = Color3.fromRGB(255, 255, 255)})
     Playere.element("Combo", "Types", {options = {"Tool", "Distance"}})
  
     local oof = players.new_sector("Out Of FOV", "Right")
