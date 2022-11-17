@@ -65,32 +65,21 @@ end
 -- anim table & tables
 local weapon_anims = {}
 local killsays = { -- found by cheese
-    "你是垃圾，菜鸟可以做得更好。",
     "imagine dying 😅😅😅 LLLL",
-    "Oops i forgot you were there, oh wait you actually dont exist anyways.",
-    "ez ez you got clapped by a low level haha!",
+    "ez ez you got clapped by a Roblox X HUB User haha!",
     "🤓: you cant just exploit in here!!111!!111 its illegal!!!!",
     "why are you dying to me bro fr fr",
     "clapped by Roblox X hub user :skull:",
-    "bro got clapped lol",
-    "'🤓: imagine being fatherless'  where are yours then go check 😁😁😁",
     "sorry did my kill aura hit you? if so then youre trash 😅",
-    "bro got skill issues 😅😅😅",
-    "bozo cant even beat me",
+    "bozo cant even beat me with roblox x injected",
     "fr fr Roblox X on top",
     "What's up 'Hackle cheatle' here guys, I have been arresting due to multiple crimes including cheating.",
-    "wdym touch grass i have one of those on my feet",
     "fortnite 19$ gift card who wants it!!!??",
     ".gg/pGFjR3MAFn <-- join for cool scripts (!!! real no fake !!!)",
     "ez bozo",
-    "your dad never came back from the milk store for a reason",
     "damn bro did your mother drop you when youre born",
-    "Who are you talking to? a kill say bot? 😅",
     "damn bro you really need a therapist 😅😅",
     "🤓: stop hacking!!!! its against the rules!!!",
-    "wenomechainsama tumajarbisaun",
-    "you should go back to kindergarden bro 😂",
-    "im just better than you!!!!!",
     "Roblox X hub better than you smh smh smh 😅"
 }
 for i, v in pairs(game:GetService("ReplicatedStorage").Shared.Assets.Melee:GetDescendants()) do
