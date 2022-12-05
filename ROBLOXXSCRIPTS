@@ -69,18 +69,18 @@ local killsays = { -- found by cheese
     "ez ez you got clapped by a Roblox X HUB User haha!",
     "🤓: you cant just exploit in here!!111!!111 its illegal!!!!",
     "why are you dying to me bro fr fr",
-    "clapped by Roblox X hub user :skull:",
+    "clapped by Zyzzzzcs Scripts user :skull:",
     "sorry did my kill aura hit you? if so then youre trash 😅",
     "bozo cant even beat me with roblox x injected",
     "fr fr Roblox X on top",
     "What's up 'Hackle cheatle' here guys, I have been arresting due to multiple crimes including cheating.",
     "fortnite 19$ gift card who wants it!!!??",
-    ".gg/pGFjR3MAFn <-- join for cool scripts (!!! real no fake !!!)",
+    ".gg/WH2RqdgHTw <-- join for cool scripts (!!! real no fake !!!)",
     "ez bozo",
     "damn bro did your mother drop you when youre born",
     "damn bro you really need a therapist 😅😅",
     "🤓: stop hacking!!!! its against the rules!!!",
-    "Roblox X hub better than you smh smh smh 😅"
+    "Zyzzzzcs Scripts better than you smh smh smh 😅"
 }
 for i, v in pairs(game:GetService("ReplicatedStorage").Shared.Assets.Melee:GetDescendants()) do
     if v:IsA("Animation") then
@@ -240,7 +240,7 @@ invisfling = function() -- changed to loadstring because it was so messy
 end
 local library = loadstring(game:HttpGet("https://pastebin.com/raw/xB6h23QX"))() -- not my lib
  
-menu = library.new('<font color="rgb(255, 0, 0)">Roblox X</font>.gg/pGFjR3MAFn', "novasaves\\")
+menu = library.new('<font color="rgb(255, 0, 0)">Zyzzzcs Scrips</font>.gg/WH2RqdgHTw', "novasaves\\")
 local tabs = {
     menu.new_tab("http://www.roblox.com/asset/?id=7300477598"),
     menu.new_tab("http://www.roblox.com/asset/?id=7300535052"),
